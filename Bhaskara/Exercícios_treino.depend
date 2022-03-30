@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635886575 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\exercícios_treino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

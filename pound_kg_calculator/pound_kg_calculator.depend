@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636405550 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\pound_kg_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

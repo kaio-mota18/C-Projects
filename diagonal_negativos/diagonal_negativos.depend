@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637081625 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\diagonal_negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

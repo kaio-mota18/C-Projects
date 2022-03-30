@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636020910 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\problema_tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

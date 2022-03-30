@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635939908 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\media_idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

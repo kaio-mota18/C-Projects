@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635887425 source:c:\users\kaio\desktop\programação\c\executáveis\meuprojeto\menor_de_tres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
